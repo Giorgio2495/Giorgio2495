@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy Agustin Mesa</h1>
 <h2 align="center">Desarrollador Front End</h2>
-<h4 align>Me apasiona mucho la programacion, tengo muchas habilidades como desarrolador web y siempre estoy dispuesto al aprendizaje constante</h4>
+<h4 align="center">Me apasiona mucho la programacion, tengo muchas habilidades como desarrolador web y siempre estoy dispuesto al aprendizaje constante</h4>
 <img src="https://4.bp.blogspot.com/-SkiniI-8B0/UYheNrI05sI/AAAAAAAAChA/SzFpse2ziUY/s1600/tumblr_ml9lmdrMjW1qit5kmo1_400.gif" width="100%">
 
 
